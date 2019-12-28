@@ -1,5 +1,6 @@
 import math
 import numpy as np
+import matplotlib
 
 
 class Logit(object):
